@@ -1,0 +1,14 @@
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\bin\Debug\net8.0\TratamentoDeErro.exe
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\bin\Debug\net8.0\TratamentoDeErro.deps.json
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\bin\Debug\net8.0\TratamentoDeErro.runtimeconfig.json
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\bin\Debug\net8.0\TratamentoDeErro.dll
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\bin\Debug\net8.0\TratamentoDeErro.pdb
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.AssemblyInfoInputs.cache
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.AssemblyInfo.cs
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.csproj.CoreCompileInputs.cache
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.dll
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\obj\Debug\net8.0\refint\TratamentoDeErro.dll
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.pdb
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.genruntimeconfig.cache
+C:\Users\raian\source\repos\EstudoCursoUdemy\TratamentoDeErro\obj\Debug\net8.0\ref\TratamentoDeErro.dll

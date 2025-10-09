@@ -1,0 +1,14 @@
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.exe
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.deps.json
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.runtimeconfig.json
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.dll
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.pdb
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.AssemblyInfoInputs.cache
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.AssemblyInfo.cs
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.dll
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\obj\Debug\net8.0\refint\TrabalhandoComArquivos.dll
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.pdb
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.genruntimeconfig.cache
+C:\Users\raian\source\repos\EstudoCursoUdemy\TrabalhandoComArquivos\obj\Debug\net8.0\ref\TrabalhandoComArquivos.dll
