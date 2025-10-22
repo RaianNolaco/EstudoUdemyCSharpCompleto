@@ -1,0 +1,14 @@
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\bin\Debug\net8.0\EstudoCursoUdemy.exe
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\bin\Debug\net8.0\EstudoCursoUdemy.deps.json
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\bin\Debug\net8.0\EstudoCursoUdemy.runtimeconfig.json
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\bin\Debug\net8.0\EstudoCursoUdemy.dll
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\bin\Debug\net8.0\EstudoCursoUdemy.pdb
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\obj\Debug\net8.0\EstudoCursoUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\obj\Debug\net8.0\EstudoCursoUdemy.AssemblyInfoInputs.cache
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\obj\Debug\net8.0\EstudoCursoUdemy.AssemblyInfo.cs
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\obj\Debug\net8.0\EstudoCursoUdemy.csproj.CoreCompileInputs.cache
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\obj\Debug\net8.0\EstudoCursoUdemy.dll
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\obj\Debug\net8.0\refint\EstudoCursoUdemy.dll
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\obj\Debug\net8.0\EstudoCursoUdemy.pdb
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\obj\Debug\net8.0\EstudoCursoUdemy.genruntimeconfig.cache
+C:\Users\raian\source\repos\EstudoCursoUdemy\EstudoCursoUdemy\obj\Debug\net8.0\ref\EstudoCursoUdemy.dll
